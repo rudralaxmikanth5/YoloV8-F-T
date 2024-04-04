@@ -1,0 +1,12 @@
+names:
+- cell
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: cell-detection-qsblz
+  url: https://universe.roboflow.com/rudra-vhs8a/cell-detection-qsblz/dataset/1
+  version: 1
+  workspace: rudra-vhs8a
+test: test/images
+train: train/images
+val: valid/images
